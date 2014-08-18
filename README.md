@@ -27,4 +27,4 @@ with:
 
     CanononicalVersionizer.new :versioning
 
-in your RakeFile.
+in your Rakefile.

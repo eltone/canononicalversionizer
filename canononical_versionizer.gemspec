@@ -18,5 +18,5 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
 
   spec.add_development_dependency "bundler"
-  spec.add_dependency 'albacore', '2.0.0.rc.12'
+  spec.add_dependency 'albacore', '2.0.0.rc.19'
 end
